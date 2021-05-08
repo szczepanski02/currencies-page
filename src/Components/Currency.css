@@ -1,0 +1,15 @@
+.currencyPage {
+    margin-top: 40px;
+}
+.primaryText {
+    color: rgb(20, 141, 255);
+    font-weight: 700;
+}
+.currencyPage p {
+    margin-bottom: 0;
+}
+.borderCard {
+    border: 1px solid rgb(226, 226, 226);
+    padding: 20px;
+    border-radius: 5px;
+}

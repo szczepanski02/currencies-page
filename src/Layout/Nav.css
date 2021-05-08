@@ -1,0 +1,22 @@
+.nav {
+    background-color: rgb(20, 141, 255);
+    padding: 20px;
+}
+
+.nav ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.nav ul li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    margin: 0 10px;
+}
+
+.nav .navlink {
+    color: white;
+    text-decoration: none;
+}

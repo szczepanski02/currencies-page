@@ -1,0 +1,27 @@
+.topbar {
+    height: 8vh;
+    background-color: rgb(228, 228, 228);
+}
+.topbarInput {
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    float: right;
+}
+.searchIcon {
+    color: rgb(20, 141, 255);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    cursor: pointer;
+}
+.searchInput {
+    height: 36px;
+    border: 0;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding: 0 10px;
+    width: 240px;
+}
+.searchInput:focus {
+    outline: none;
+}
